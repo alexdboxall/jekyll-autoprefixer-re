@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'jekyll/autoprefixer/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-autoprefixer"
+  spec.name          = "jekyll-autoprefixer-re"
   spec.version       = Jekyll::Autoprefixer::VERSION
   spec.authors       = ["Vincent Wochnik"]
   spec.email         = ["v.wochnik@gmail.com"]
